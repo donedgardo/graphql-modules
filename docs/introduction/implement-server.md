@@ -4,7 +4,7 @@ title: Implement Your Server
 sidebar_label: Implement Server
 ---
 
-To get started, add `express` amd `express-graphql` to your app:
+To get started, add `express` and `express-graphql` to your app:
 
 ```bash
 yarn add express express-graphql
