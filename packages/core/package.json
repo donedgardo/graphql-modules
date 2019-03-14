@@ -37,9 +37,9 @@
     "tslib": "1.9.3"
   },
   "devDependencies": {
-    "apollo-cache-inmemory": "1.4.2",
-    "apollo-client": "2.4.12",
-    "apollo-link-schema": "1.1.6",
+    "apollo-cache-inmemory": "1.5.1",
+    "apollo-client": "2.5.1",
+    "apollo-link-schema": "1.2.2",
     "graphql-tag": "2.10.1",
     "jest": "24.1.0",
     "tslint": "5.12.1",
